@@ -1,6 +1,6 @@
 # ANTS-Verification
 
-![logo](./logo.jpg)
+![logo](https://github.com/ANTS-Verification/.github/blob/main/profile/logo.jpg)
 
 ANTS - **A**dvanced **N**etwork **T**echnology & **S**ystem
 

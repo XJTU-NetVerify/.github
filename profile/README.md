@@ -1,6 +1,6 @@
-# ANTS-Verification
+# XJTU NetVerify
 
-![logo](https://github.com/ANTS-Verification/.github/blob/main/profile/logo.jpg)
+![logo](https://github.com/XJTU-NetVerify/.github/blob/main/profile/logo.jpg)
 
 ANTS - **A**dvanced **N**etwork **T**echnology & **S**ystem
 

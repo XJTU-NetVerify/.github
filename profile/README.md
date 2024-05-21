@@ -1,4 +1,4 @@
-# Network Verification @ANTS, XJTU
+# [Network Verification @ANTS, XJTU](https://xjtu-netverify.github.io)
 
 We are researchers from the ANTS (Advanced NeTworked System) group of Xi'an Jiaotong University.
 We focus on network verfication, an exciting new direction in computer network: it leverages formal methods, together with simulation/emulation to ensure the correctness of large and complex computer networks, e.g., datacenter networks, and wide area networks.

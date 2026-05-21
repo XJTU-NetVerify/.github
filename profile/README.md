@@ -1,8 +1,6 @@
 # [Network Verification @ANTS, XJTU](https://xjtu-netverify.github.io)
 
-We are researchers from the ANTS (Advanced NeTworked System) group of Xi'an Jiaotong University.
-We focus on network verfication, an exciting new direction in computer network: it leverages formal methods, together with simulation/emulation to ensure the correctness of large and complex computer networks, e.g., datacenter networks, and wide area networks.
-We have proposed verifiers like APKeep (NSDI'20), MNV (CoNEXT'23), DNA (NSDI'22), SRE (SIGCOMM'22), and Expresso (SIGCOMM'24).
-Some of the work have already been open sourced.
+We are a team of researchers from the ANTS (Advanced NeTworked System) group of Xi'an Jiaotong University.
+We focus on the verfication, simulation, and synthesis of large and complex computer networks, e.g., datacenter networks, and wide area networks. We have proposed several verifiers like APKeep (NSDI '20), DNA (NSDI '22), SRE (SIGCOMM '22), MNV (CoNEXT '23), Expresso (SIGCOMM '24), S2 (SIGCOMM '25), REAL (NSDI '26), and new data structures like NDD (NSDI '25). Most of them are open sourced.
 
 > Xi'an Jiaotong University
